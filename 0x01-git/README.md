@@ -1,1 +1,3 @@
-My new readme
+My new readme is about myslef
+I honestly have nothing to write right now
+
